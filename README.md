@@ -1,5 +1,8 @@
 # TaskFlow
 
+![GitHub last commit](https://img.shields.io/github/last-commit/osvaldorb13/taskflow)
+![GitHub repo size](https://img.shields.io/github/repo-size/osvaldorb13/taskflow)
+
 Plataforma de gestion de proyectos y tareas construida como proyecto de aprendizaje de desarrollo web full stack.
 
 ## Descripcion
