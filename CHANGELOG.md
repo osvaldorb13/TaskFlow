@@ -8,12 +8,13 @@ Este proyecto usa [Semantic Versioning](https://semver.org/).
 ## [0.1.0] - 2026-01-28
 
 ### Added
-- Estructura de carpetas profesional
+- Estructura de carpetas profesional (design, docs, src, public, tests)
 - Git Flow configurado (main + develop)
 - Conexion SSH a GitHub
-- .gitignore completo
-- README.md con documentacion del proyecto
-- .editorconfig para formato consistente
-- Licencia MIT
-- Estructura docs/ para documentacion del curso
-- Carpetas src/ preparadas para desarrollo
+- `.gitignore` completo (OS, editores, dependencias, secrets)
+- `.editorconfig` para formato consistente
+- `README.md` con documentacion del proyecto
+- `CHANGELOG.md` con formato Keep a Changelog
+- `LICENSE` MIT
+- Documentacion del curso en `docs/`
+- Tracking de progreso en `docs/progress.md`
